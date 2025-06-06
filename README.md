@@ -1,2 +1,2 @@
-# 20250603_EstimatingBatteryChargeTime
+# EstimatingBatteryChargeTime
 Battery Intelligence before iOS19!
